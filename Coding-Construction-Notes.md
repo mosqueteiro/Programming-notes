@@ -2,7 +2,7 @@
 These notes are mostly taken from reading the book [_Code Complete: A practical Handbook of Software Construction_](https://en.wikipedia.org/wiki/Code_Complete).
 
 ## Table of Contents
-* [Prerequisites](3-prerequisites)
+* [Prerequisites](#3-prerequisites)
 
 ## 3: Prerequisites
 ### 3.4: Requirements Prerequisite  
