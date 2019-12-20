@@ -4,8 +4,8 @@ These notes are mostly taken from reading the book [_Code Complete: A practical 
 ## Table of Contents
 * [Prerequisites](#3-prerequisites)
 
-## 3: Prerequisites
-### 3.4: Requirements Prerequisite  
+## 3 Prerequisites
+### 3.4 Requirements Prerequisite  
 #### Why Have Requirements?  
 * helps minimize system changes
 * requirements errors are much harder and more expensive to fix than coding errors
