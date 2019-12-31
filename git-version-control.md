@@ -7,6 +7,24 @@
 * [old feature > newer master](#getting-a-feature-branch-up-to-speed-with-master)
 * [References](#references)  
 
+## Merge conflict in a **PR**  
+
+Merge conflicts can't be fixed in the pull request (PR), at least not in _bitbucket_. Here's a quick way to fix a merge conflict
+
+```bash
+git checkout <branch with changes to pull>
+git pull origin <branch being pulled into>
+```
+
+>Auto-merging _file(s)_  
+>CONFLICT (content): Merge conflict in _file(s)_  
+>Automatic merge failed; fix conflicts and then commit the result.  
+
+... _manage conflict_ ...
+
+```bash
+git commit
+```
 
 ## Getting a feature branch up to speed with master  
 
