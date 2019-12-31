@@ -4,6 +4,7 @@
 
 ## Contents  
 
+* [Merge conflict in a **PR**](#merge-conflict-in-a-PR)
 * [old feature > newer master](#getting-a-feature-branch-up-to-speed-with-master)
 * [References](#references)  
 
