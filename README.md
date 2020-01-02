@@ -13,4 +13,4 @@ Place to store notes and notebooks on different programming related topics
 * [Creating Technical Specifications](https://github.com/mosqueteiro/Programming-notes/blob/master/Technical-Specs.md)
 * [Forcasting Notes](https://github.com/mosqueteiro/Programming-notes/blob/master/Forecasting-Notes.ipynb)
 * [Networking Notes](networking-notes.md)
-* [SQL Notes](SQL-notes.ipynb)
+* [SQL Notes](https://github.com/mosqueteiro/Programming-notes/blob/master/SQL%20-%20notes.ipynb)
