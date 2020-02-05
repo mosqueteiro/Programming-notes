@@ -4,9 +4,20 @@
 
 ## Contents  
 
-* [Merge conflict in a **PR**](#merge-conflict-in-a-PR)
+* [List files of a commit](#list-files-of-a-commit)
+* [Merge conflict in a **PR**](#merge-conflict-in-a-PR)  
 * [old feature > newer master](#getting-a-feature-branch-up-to-speed-with-master)
 * [References](#references)  
+
+## List files of a commit  
+
+from [Stack Overflow:](https://stackoverflow.com/a/424142/4794025)  
+```bash
+$ git diff-tree --no-commit-id --name-only -r bd61ad98
+index.html
+javascript/application.js
+javascript/ie6.js
+```
 
 ## Merge conflict in a **PR**  
 
@@ -69,3 +80,4 @@ From [stackoverflow:](https://stackoverflow.com/a/5309051/4794025)
 ## References  
 
 * [A successful git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+* [git - How to list all the files in a commit | Stack Overflow](https://stackoverflow.com/a/424142/4794025)
